@@ -11,7 +11,7 @@ Performance Power BI Dashboard to visualize finance KPI data for a made-up compa
 
 3️. Calculations - Performing necessary number crunching using DAX in Power Pivot
 
-4️. Dashboard Visuals & Interactions - Creating and customizing various visuals to generate our KPI dashboard
+4️. Dashboard Visuals & Interactions - Creating and customizing various visuals to generate KPI dashboard
 
 ## **What I learned**:
 
